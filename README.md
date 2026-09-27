@@ -8,9 +8,9 @@
 
 ## Course Administrative Details
 
-- **Instructor:** [Mohannad Elhamod](https://www.linkedin.com/in/mohannadelhamod/) (Contact exclusively through [Piazza](https://piazza.com/bu/fall2026/is834))
+- **Instructor:** [Mohannad Elhamod](https://www.linkedin.com/in/mohannadelhamod/) (Contact exclusively through [Piazza](https://piazza.com/bu/fall2026/is834), addressed to **All Instructors**)
 - **Office hours:** **By appointment only** — request an appointment through Piazza (see the Office Hours policy below)
-- **TAs:** TBD, announced in class (Contact exclusively through Piazza); TA office hours are also **by appointment only**, requested through Piazza
+- **TA:** Samuel Buelvas (Contact exclusively through Piazza, addressed to **All Instructors**); TA office hours are also **by appointment only**, requested through Piazza
 - **Class time and place:** Thursday 6:30 – 9:15 PM / HAR 240
 - **Term:** September 2 – December 10, 2026
 - **First class meeting:** Thursday, September 3, 2026
@@ -87,7 +87,7 @@ All lab work runs in Google Colab in your browser; no local Python installation 
 
 ### Contact Policy
 
-**Piazza is the only channel for course communication.** All questions, discussion, and private messages to the instructor and the TAs go through Piazza. Messages sent by email or through Blackboard will most likely not receive attention.
+**Piazza is the only channel for course communication.** Every question, discussion and private message to the instructor and the TA goes through Piazza, and every one of them must be addressed to **All Instructors** rather than to one person — that is the option to choose in Piazza's *Post to* field, and it is what makes sure whoever is free sees your message first. Email and Blackboard messages will most likely not receive attention, and neither will a Piazza post sent to a single name.
 
 Join the course Piazza site at [**https://piazza.com/bu/fall2026/is834**](https://piazza.com/bu/fall2026/is834) **before the first class**, and do two things straight away:
 
@@ -96,7 +96,7 @@ Join the course Piazza site at [**https://piazza.com/bu/fall2026/is834**](https:
 
 When you post:
 
-- **Address the post to the whole instructor team, not to one person.** In the *Post to* field, select all instructors rather than a single name — a post addressed to one person is the most common reason a question sits unanswered.
+- **Address every post to All Instructors, never to one person.** In the *Post to* field choose **All Instructors** rather than an individual name. A post addressed to one person is the most common reason a question sits unanswered — it waits on whoever you happened to pick instead of reaching whoever is free.
 - **Choose the right post type:** a **Question** when you need an answer, a **Note** when you are sharing a resource or starting a discussion.
 - **Post publicly by default.** Use a private post only for something personal — a grade, an accommodation, or a personal difficulty. Public questions get answered faster and help everyone.
 - **Write a specific title**, say what you have already tried, and paste code and error messages as text rather than screenshots.
@@ -106,7 +106,7 @@ New to Piazza? See [how to post a question](https://support.piazza.com/support/s
 
 ### Office Hours
 
-Office hours — for the instructor and for any teaching assistants — are held **by appointment only**; there is no standing weekly slot. To request a meeting, send a private Piazza message that lists **at least three possible time frames, each at least two hours wide** — for example, "Tue 1:00 - 3:00 PM, Wed 10:00 AM - 12:00 PM, Thu 3:00 - 5:00 PM." Broad windows are what make it possible to find an overlap on the first try; a request naming a single time or a narrow slot rarely lands. **State the purpose of the visit in the same message** — grade revision, project help, discussion of course content, and so on. That is what allows a request to be routed to the right person and prioritized against the others waiting.
+Office hours — for the instructor and for the TA — are held **by appointment only**; there is no standing weekly slot. To request a meeting, send a private Piazza message **addressed to All Instructors** that lists **at least three possible time frames, each at least two hours wide** — for example, "Tue 1:00 - 3:00 PM, Wed 10:00 AM - 12:00 PM, Thu 3:00 - 5:00 PM." Broad windows are what make it possible to find an overlap on the first try; a request naming a single time or a narrow slot rarely lands. **State the purpose of the visit in the same message** — grade revision, project help, discussion of course content, and so on. That is what allows a request to be routed to the right person and prioritized against the others waiting.
 
 **Requests that do not include three qualifying time frames will not be answered.** You will need to resubmit, which delays the meeting — often past the point where it would have been useful. A request that does not state its purpose may also be delayed while we work out who should take it. Plan ahead and send your request well before the deadline you need help with. Meetings are held in the instructor's office (HAR 546D) unless another arrangement is agreed in advance.
 
